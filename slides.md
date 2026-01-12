@@ -311,12 +311,14 @@ Keeping the partitions balanced in size and workload is a major problem
 
 # Motivation for NoSQL databases
 
+<div class="p-4">
+
 <v-clicks depth="2">
 
 - Very large volumes of data being collected
   - Driven by growth of web, social media, and more recently internet-of-things
   - Web logs were an early source of data
-  - Analytics on web logs has great value for advertisements, web site structuring, what posts to show to a user, etc
+  - Analytics on web logs has great value for advertisements, web site structuring,<br>what posts to show to a user, etc.
 
 - Big Data:  differentiated from data handled by earlier generation databases
   - Volume: much larger amounts of data stored
@@ -325,14 +327,19 @@ Keeping the partitions balanced in size and workload is a major problem
 
 </v-clicks>
 
+</div>
+
 ---
 
 # Motivation for NoSQL databases (cont.)
 
+<div class="p-4">
+
+
 <v-clicks depth="2">
 
 - Transaction processing systems that need very high scalability
-  - Many applications willing to sacrifice ACID properties and other database features, if they can get very high scalability
+  - Many applications willing to sacrifice ACID properties and other database features,<br>if they can get very high scalability
 
 - Query processing systems that
   - need very high scalability, and 
@@ -344,6 +351,8 @@ Keeping the partitions balanced in size and workload is a major problem
 
 
 </v-clicks>
+
+</div>
 
 ---
 
